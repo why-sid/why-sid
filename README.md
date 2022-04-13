@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @why-sid
+- 👋 Hi, I’m Siddharth
 - 👀 I’m interested in learning several new things, be it tech or non tech!
 - 🌱 I’m currently learning C and Python for Data Science
 - 💞️ I’m looking to collaborate on fun projects, especially open source
