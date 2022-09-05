@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning several new things, be it tech or non tech!
 - 🌱 I’m currently learning C and Python for Data Science
 - 💞️ I’m looking to collaborate on fun projects, especially open source
-- 📫 You can connect me on instagram as wannabesid
+- 📫 You can connect me on instagram as siddharthhhh08
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=why-sid&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
