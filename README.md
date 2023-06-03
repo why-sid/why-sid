@@ -13,9 +13,8 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=why-sid&hide=TeX&layout=compact)
 
 
-![Profile views](https://gpvc.arturio.dev/why-sid)
+![Profile views](https://komarev.com/ghpvc/?username=why-sid&color=purple&style=plastic)
 
-[![why-sid's GitHub | Topics](https://stats.quine.sh/why-sid/topics-over-time?theme=light)](https://quine.sh)
 
 <!---
 why-sid/why-sid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
