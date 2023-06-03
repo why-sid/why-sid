@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=why-sid&hide=TeX&layout=compact)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=why-sid&color=purple&style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=why-sid&color=blueviolet&style=plastic)
 
 
 <!---
